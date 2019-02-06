@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/cillian1/node_cg/issues"
   },
-  "homepage": "https://github.com/cillian1/node_cg#readme"
+  "homepage": "https://github.com/cillian1/node_cg#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
