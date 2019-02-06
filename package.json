@@ -1,0 +1,19 @@
+{
+  "name": "wow",
+  "version": "1.0.0",
+  "description": "A very simple  node repository",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cillian1/node_cg.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cillian1/node_cg/issues"
+  },
+  "homepage": "https://github.com/cillian1/node_cg#readme"
+}
